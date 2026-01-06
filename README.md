@@ -8,12 +8,6 @@
 
 **DOMAIN**: SQL
 
-**DURATION**: 4 WEEKS
-
-**MENTOR**: NEELA SANTOSH
-
-# DESCRIPTION OF TASK
-
 **Task Description**:
 1) What Are Complex SQL Queries?
        - A complex SQL query is any query that goes beyond simple SELECT, FROM, and WHERE statements. It typically involves multiple layers of logic, such as:
